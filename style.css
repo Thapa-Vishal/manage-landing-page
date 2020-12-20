@@ -1,0 +1,181 @@
+.attribution { font-size: 16px; text-align: center; }
+body{
+    font-family: 'Be Vietnam', sans-serif;
+    font-size: 16px;
+    color: hsl(227, 12%, 61%);
+}
+.navbar.navbar-expand-lg{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.getstartedbtn{
+    width: 125px;
+    height: 35px;
+    background-color: hsl(12, 88%, 59%);
+    box-shadow: 0 8px 10px 0 hsl(11, 100%, 82%);
+    border-radius: 20px;
+    border: 0px;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+}
+.getstartedbtn:hover{
+    opacity: 0.8;
+}
+.nav-item{
+    padding-left: 20px;
+}
+.nav-link{
+    color: hsl(228, 39%, 23%);
+    font-weight: bold;
+}
+.nav-link:hover {
+    box-shadow: inset 0 -2px 0 0 0  hsl(12, 88%, 59%);
+}
+.container-fluid{
+    padding:0px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+h1,h2,h3{
+    color: hsl(233, 12%, 13%);
+    font-weight: bold;
+}
+.row.pb-1{
+    padding-top: 100px;
+}
+.intro-content{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.intro-content.col-lg-6.col-xs-12{
+    padding-bottom: 8%;
+}
+.intro-img{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.content.row.pb-1{
+    padding:0%;
+}
+span{
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    margin-right: 5%;
+    background-color: hsl(12, 88%, 59%);
+    text-align: center;
+    border-radius: 20px;
+    font-size: 16px;
+    color: white;
+}
+.content-head{
+    margin-bottom: 8%;
+}
+.content{
+    padding-bottom: 20px;
+}
+.content-heading{
+    font-size: 20px;
+}
+.content-data{
+    padding-left: 20%;
+}
+.rev-head{
+    text-align: center;
+    margin: 5%;
+}
+.review-items{
+    padding: 0%;
+    border: none;
+    background-color: hsl(0, 0%, 98%);
+    padding-bottom: 5%;
+}
+
+.review-img{
+    width: 25%;
+    height: auto;
+    align-self: center;
+    margin-top: -8%;
+}
+.card-title{
+    font-size: 15px;
+    text-align: center;
+}
+.card-text{
+    font-size: 12px;
+}
+.getBtn{
+    text-align: center;
+    margin: 5%;
+}
+.end-moto{
+    background-color:  hsl(12, 88%, 59%) ;
+    background-image: url(images/bg-tablet-pattern.svg);
+    background-size: 50%;
+}
+.pad-div{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+}
+.mess{
+    color: white;
+    font-size: 40px
+}
+.button-tab{
+    text-align: center;
+}
+.getendbtn{
+    margin-top: 5%;
+    width: 125px;
+    height: 35px;
+    background-color: white;
+    border-radius: 20px;
+    border: 0px;
+    color: hsl(12, 88%, 59%);
+    text-align: center;
+    font-size: 12px;
+}
+.footer{
+    padding:30px;
+    background-color: hsl(233, 12%, 13%);
+  }
+  .footer-links{
+    padding: 5px;
+  }
+  .footer-link.list{
+    padding-left: 40px;
+  }
+  ul{
+    list-style-type: none;
+  }
+  ul li{
+    padding-top: 10px;
+    font-size: 13px;
+    align-items: baseline;
+  }
+  a.link-item{
+    color: white;
+    padding-left: 2%;
+  }
+.combine.col-lg-6.col-xs-12.row.pb-1{
+    padding: 0%;
+}
+.gobtn{
+    background-color:hsl(12, 88%, 59%);
+    border-radius: 30px;
+    color:white;
+    width: 50px;
+    height: 40px;
+    border:0px;
+}
+  .data-input{
+      width: 50%;
+      height: 40px;
+      border-radius: 30px;
+      border: 0px;
+  }
